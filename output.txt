@@ -1,0 +1,4 @@
+Unable to find path from gdansk to warszawa
+Unable to find path from bydgoszcz to warszawa
+3
+2
